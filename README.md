@@ -1,5 +1,4 @@
 # hello-world
 hello world i guess
 
-update
-update from 'dev1'
+update from 'dev2' and 'dev1'
